@@ -11,3 +11,6 @@ were from the ABS census data. The ’break and enter.zip’ dataset was from th
 Statistics and Research (BOCSAR), and ’school catchments.zip’ were from NSW Department of Education.
 Additional datasets, ’swimming pools’ and ’bicycle parking’, were sourced from the City of Sydney
 Open Data Hub.
+
+Project Report - The main document reporting all our findings
+Prokect Notebook - The reproduceable code
