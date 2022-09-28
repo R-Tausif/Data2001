@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Swimming_pools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "The Andrew (Boy) Charlton Pool", "Class": "PO", "Address": "1C Mrs Macquaries Road", "Address2": "", "Suburb": "Sydney", "Postcode": 2000, "PhoneNumber": "02 9358 6686", "Details": "Outdoor Pool", "URL": "http:\/\/www.cityofsydney.nsw.gov.au\/explore\/facilities\/swimming-pools\/andrew-boy-charlton-pool" }, "geometry": { "type": "Point", "coordinates": [ 151.222118310984996, -33.863178173797799 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "Cook+Phillip Park Aquatic & Fitness Centre", "Class": "PO", "Address": "4 College Street", "Address2": "corner of William Street", "Suburb": "Sydney", "Postcode": 2000, "PhoneNumber": "02 9326 0444", "Details": "Indoor Pool", "URL": "http:\/\/www.cityofsydney.nsw.gov.au\/explore\/facilities\/swimming-pools\/cook-phillip-park-aquatic-and-fitness-centre" }, "geometry": { "type": "Point", "coordinates": [ 151.213082947100986, -33.872993724554803 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "Victoria Park Pool", "Class": "PO", "Address": "1 City Road", "Address2": "Corner of Parramatta Road", "Suburb": "Camperdown", "Postcode": 2050, "PhoneNumber": "02 9518 4800", "Details": "Outdoor Pool", "URL": "http:\/\/www.cityofsydney.nsw.gov.au\/explore\/facilities\/swimming-pools\/victoria-park-pool" }, "geometry": { "type": "Point", "coordinates": [ 151.192305578727002, -33.886131553242599 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "Prince Alfred Park Pool", "Class": "PO", "Address": "105 Chalmers Street", "Address2": "", "Suburb": "Surry Hills", "Postcode": 2010, "PhoneNumber": "02 9319 2727", "Details": "Outdoor Pool", "URL": "http:\/\/www.cityofsydney.nsw.gov.au\/explore\/facilities\/swimming-pools\/prince-alfred-park-pool" }, "geometry": { "type": "Point", "coordinates": [ 151.206026376099004, -33.887503590560001 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "Ian Thorpe Aquatic Centre", "Class": "PO", "Address": "458 Harris Street", "Address2": "Corner of William Henry Street", "Suburb": "Ultimo", "Postcode": 2007, "PhoneNumber": "02 9518 7220", "Details": "Indoor Pool", "URL": "http:\/\/www.cityofsydney.nsw.gov.au\/explore\/facilities\/swimming-pools\/ian-thorpe-aquatic-centre" }, "geometry": { "type": "Point", "coordinates": [ 151.198901806217009, -33.877302173433002 ] } }
+]
+}
