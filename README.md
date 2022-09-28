@@ -13,4 +13,5 @@ Additional datasets, ’swimming pools’ and ’bicycle parking’, were source
 Open Data Hub.
 
 Project Report - The main document reporting all our findings
-Prokect Notebook - The reproduceable code
+
+Project Notebook - The reproducible code which was done in JupyterNotebook. 
